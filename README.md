@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-##### About me
+#### About me
 ✨ I'm pursuing Integrated M tech In Artificial Intelligence.
 
 ✨ Ask me about DSA problems, ML algorithms.
